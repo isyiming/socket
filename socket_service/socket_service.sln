@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socket_service", "socket_service\socket_service.csproj", "{C546D224-68E8-489B-80FD-3713B71F3021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C546D224-68E8-489B-80FD-3713B71F3021}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C546D224-68E8-489B-80FD-3713B71F3021}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C546D224-68E8-489B-80FD-3713B71F3021}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C546D224-68E8-489B-80FD-3713B71F3021}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
