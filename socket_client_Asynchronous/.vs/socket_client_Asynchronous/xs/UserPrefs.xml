@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{86A68690-4316-4B9E-BA7C-1E9CE805C471}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="socket_client_Asynchronous/Program.cs">
     <Files>
-      <File FileName="socket_client_Asynchronous/Program.cs" Line="25" Column="31" />
+      <File FileName="socket_client_Asynchronous/Program.cs" Line="91" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.socket__client__Asynchronous FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.socket__client__Asynchronous PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

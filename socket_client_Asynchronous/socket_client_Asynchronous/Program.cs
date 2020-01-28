@@ -12,7 +12,7 @@ namespace socket_client_Asynchronous
         const int BUFFER_SIZE = 1024;
         public byte[] readBuff = new byte[BUFFER_SIZE];
         string recvText = "";
-        string recvStr = "";
+        public string recvStr = "";
 
         //连接
         public void Connetion()
@@ -40,6 +40,8 @@ namespace socket_client_Asynchronous
 
                 //数据处理
                 string str = System.Text.Encoding.UTF8.GetString(readBuff, 0, count);
+
+                //所以一次发送消息长度不能超过300
                 if (recvStr.Length > 300)
                 {
                     recvStr = "";
@@ -80,8 +82,12 @@ namespace socket_client_Asynchronous
             Client client = new Client();
             client.Connetion();
             //等待键盘输入字符串，发送给服务端
-            string str = Console.ReadLine();
-            client.Send(str);
+            while(true)
+            {
+                string str = Console.ReadLine();
+                client.Send(str);
+                Console.WriteLine(client.recvStr);
+            }
         }
     }
 }
