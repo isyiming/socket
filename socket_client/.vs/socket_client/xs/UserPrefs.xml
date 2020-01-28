@@ -1,20 +1,16 @@
 ﻿<Properties StartupConfiguration="{1C9DBAAC-82A9-4F21-8B02-4B78624EC1F9}|Default">
   <MonoDevelop.Ide.ItemProperties.socket__client PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="socket_client/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="socket_client/client.cs">
     <Files>
-      <File FileName="../socket_service/socket_service/Program.cs" Line="1" Column="1" />
-      <File FileName="socket_client/Program.cs" Line="1" Column="1" />
+      <File FileName="socket_client/client.cs" Line="38" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="socket_client" expanded="True">
             <Node name="socket_client" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="client.cs" selected="True" />
             </Node>
-          </Node>
-          <Node name="socket_service" expanded="True">
-            <Node name="socket_service" expanded="True" />
           </Node>
         </State>
       </Pad>

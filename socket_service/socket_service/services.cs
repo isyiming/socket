@@ -1,6 +1,8 @@
 ﻿//
 // Created by 张一铭 on 2020/1/27.
-//
+// socket通讯的服务端代码
+// 首先启动服务端再启动客户端
+
 using System;
 using System.Net;
 using System.Net.Sockets;
@@ -38,6 +40,7 @@ namespace socket_service
                 Console.WriteLine("服务器接收信息：" + str);
 
                 //Send
+                str = System.DateTime.Now.ToString();
                 byte[] bytes = System.Text.Encoding.Default.GetBytes("serv echo " + str);
                 connfd.Send(bytes);
             }

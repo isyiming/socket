@@ -1,4 +1,9 @@
-﻿using System;
+﻿//
+// Created by 张一铭 on 2020/1/27.
+// socket通讯的客户端代码
+// 首先启动服务端再启动客户端
+
+using System;
 using System.Collections;
 using System.Net;
 using System.Net.Sockets;

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E6C80FBF-F683-48C9-8B27-63973BD52F08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="socket_services_Asynchronous/Program.cs">
+    <Files>
+      <File FileName="socket_services_Asynchronous/Program.cs" Line="146" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="socket_services_Asynchronous" expanded="True">
+            <Node name="socket_services_Asynchronous" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.socket__services__Asynchronous PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

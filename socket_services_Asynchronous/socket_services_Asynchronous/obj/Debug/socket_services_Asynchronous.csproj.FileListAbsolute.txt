@@ -1,0 +1,5 @@
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_services_Asynchronous/socket_services_Asynchronous/obj/Debug/socket_services_Asynchronous.csprojAssemblyReference.cache
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_services_Asynchronous/socket_services_Asynchronous/bin/Debug/socket_services_Asynchronous.exe
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_services_Asynchronous/socket_services_Asynchronous/bin/Debug/socket_services_Asynchronous.pdb
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_services_Asynchronous/socket_services_Asynchronous/obj/Debug/socket_services_Asynchronous.exe
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_services_Asynchronous/socket_services_Asynchronous/obj/Debug/socket_services_Asynchronous.pdb
