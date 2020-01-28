@@ -13,25 +13,30 @@ namespace socket_service
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
             //Socket 创建socket套接字，指定了地址，套接字类型和协议
             Socket listenfd = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+
             //Bind 给套接字listenfd绑定ip和端口
             IPAddress ipAdr = IPAddress.Parse("127.0.0.1");
-            IPEndPoint ipEp = new IPEndPoint(ipAdr, 1234);
+            IPEndPoint ipEp = new IPEndPoint(ipAdr, 6000);
             listenfd.Bind(ipEp);
+
             //Listen 开启监听 等待客户端连接
             listenfd.Listen(0);
-            Console.WriteLine("服务器启动成功");
+            Console.WriteLine("服务器开启监听");
+
             while(true)
             {
                 //Accept
                 Socket connfd = listenfd.Accept();
-                Console.WriteLine("服务器Accept");
+                Console.WriteLine("服务器和客户端连接建立");
                 //Rccv
                 byte[] readBuff = new byte[1024];
-                int count = connfd.Receive(readBuff);
+                int count = connfd.Receive(readBuff, readBuff.Length,0);
                 string str = System.Text.Encoding.UTF8.GetString(readBuff, 0, count);
-                Console.WriteLine("服务器Accept" + str);
+                Console.WriteLine("服务器接收信息：" + str);
+
                 //Send
                 byte[] bytes = System.Text.Encoding.Default.GetBytes("serv echo " + str);
                 connfd.Send(bytes);

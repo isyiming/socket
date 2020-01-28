@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{C546D224-68E8-489B-80FD-3713B71F3021}|Default">
-  <MonoDevelop.Ide.ItemProperties.socket__service PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../socket_client/socket_client/Program.cs">
+﻿<Properties StartupConfiguration="{1C9DBAAC-82A9-4F21-8B02-4B78624EC1F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.socket__client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="socket_client/Program.cs">
     <Files>
-      <File FileName="socket_service/Program.cs" Line="1" Column="1" />
-      <File FileName="../socket_client/socket_client/Program.cs" Line="1" Column="1" />
+      <File FileName="../socket_service/socket_service/Program.cs" Line="1" Column="1" />
+      <File FileName="socket_client/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

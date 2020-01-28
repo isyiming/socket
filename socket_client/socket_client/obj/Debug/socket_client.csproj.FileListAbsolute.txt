@@ -1,0 +1,5 @@
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client/socket_client/obj/Debug/socket_client.csprojAssemblyReference.cache
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client/socket_client/bin/Debug/socket_client.exe
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client/socket_client/bin/Debug/socket_client.pdb
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client/socket_client/obj/Debug/socket_client.exe
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client/socket_client/obj/Debug/socket_client.pdb

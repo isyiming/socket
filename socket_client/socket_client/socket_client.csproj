@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
-    <ProjectGuid>{C546D224-68E8-489B-80FD-3713B71F3021}</ProjectGuid>
+    <ProjectGuid>{1C9DBAAC-82A9-4F21-8B02-4B78624EC1F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>socket_service</RootNamespace>
-    <AssemblyName>socket_service</AssemblyName>
+    <RootNamespace>socket_client</RootNamespace>
+    <AssemblyName>socket_client</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
@@ -30,7 +30,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="services.cs" />
+    <Compile Include="client.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
