@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{86A68690-4316-4B9E-BA7C-1E9CE805C471}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="socket_client_Asynchronous/Program.cs">
     <Files>
-      <File FileName="socket_client_Asynchronous/Program.cs" Line="1" Column="1" />
+      <File FileName="socket_client_Asynchronous/Program.cs" Line="25" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
