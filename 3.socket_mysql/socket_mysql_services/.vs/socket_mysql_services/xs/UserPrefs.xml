@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{58B6C366-3CC6-458C-A8C4-07AF28952508}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="socket_mysql_client/Program.cs">
+﻿<Properties StartupConfiguration="{E1E9ACB1-E0BB-4534-BF19-41BEF18435DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="socket_mysql_services/Program.cs">
     <Files>
-      <File FileName="socket_mysql_client/Program.cs" Line="14" Column="1" />
+      <File FileName="socket_mysql_services/Program.cs" Line="5" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="socket_mysql_client" expanded="True">
-            <Node name="socket_mysql_client" expanded="True">
-              <Node name="References" expanded="True" />
+          <Node name="socket_mysql_services" expanded="True">
+            <Node name="socket_mysql_services" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.socket__mysql__client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.socket__mysql__services FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
