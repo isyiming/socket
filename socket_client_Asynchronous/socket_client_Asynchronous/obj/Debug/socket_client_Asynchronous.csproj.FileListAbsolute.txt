@@ -1,5 +1,0 @@
-/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client_Asynchronous/socket_client_Asynchronous/bin/Debug/socket_client_Asynchronous.exe
-/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client_Asynchronous/socket_client_Asynchronous/bin/Debug/socket_client_Asynchronous.pdb
-/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client_Asynchronous/socket_client_Asynchronous/obj/Debug/socket_client_Asynchronous.csprojAssemblyReference.cache
-/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client_Asynchronous/socket_client_Asynchronous/obj/Debug/socket_client_Asynchronous.exe
-/Users/ming/本地文稿/GitHub/HellowUnity/socket/socket_client_Asynchronous/socket_client_Asynchronous/obj/Debug/socket_client_Asynchronous.pdb

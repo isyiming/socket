@@ -1,0 +1,1 @@
+/Users/ming/本地文稿/GitHub/HellowUnity/socket/3.socket_mysql/socket_mysql_client/socket_mysql_client/obj/Debug/socket_mysql_client.csprojAssemblyReference.cache
